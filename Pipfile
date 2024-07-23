@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+PyQt5 = "*"
+pytesseract = "*"
+pyautogui ="*"
+pillow = "*"
+psutil = "*"
 
 [dev-packages]
 
